@@ -1,6 +1,6 @@
-# Yonatan Portfolio
+# Yonatan Mitiku — Architectural Portfolio
 
-A responsive, dependency-free portfolio site for Yonatan.
+A responsive, dependency-free architectural portfolio site for Yonatan Mitiku.
 
 ## Run locally
 
@@ -12,4 +12,4 @@ python3 -m http.server 8000
 
 Then visit <http://localhost:8000>.
 
-Project descriptions, contact details, and social links in the page are starter content and should be replaced with Yonatan's confirmed information.
+The project cards are illustrative concept studies, not claims about completed commissions. Replace them with confirmed projects when available. The email address and social links are starter content and should be updated with Yonatan's confirmed contact details and profiles.
